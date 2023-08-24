@@ -1,0 +1,2 @@
+com.guyuai.framework.redis.config.GuyuaiRedisAutoConfiguration
+com.guyuai.framework.redis.config.GuyuaiCacheAutoConfiguration

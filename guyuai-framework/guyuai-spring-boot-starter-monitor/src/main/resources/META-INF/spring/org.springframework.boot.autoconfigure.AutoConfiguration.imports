@@ -1,0 +1,2 @@
+com.guyuai.framework.tracer.config.GuyuaiTracerAutoConfiguration
+com.guyuai.framework.tracer.config.GuyuaiMetricsAutoConfiguration

@@ -1,0 +1,2 @@
+com.guyuai.framework.datasource.config.GuyuaiDataSourceAutoConfiguration
+com.guyuai.framework.mybatis.config.GuyuaiMybatisAutoConfiguration

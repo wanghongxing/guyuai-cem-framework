@@ -1,0 +1,2 @@
+com.guyuai.framework.quartz.config.GuyuaiQuartzAutoConfiguration
+com.guyuai.framework.quartz.config.GuyuaiAsyncAutoConfiguration

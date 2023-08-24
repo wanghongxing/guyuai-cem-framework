@@ -1,0 +1,6 @@
+com.guyuai.framework.apilog.config.GuyuaiApiLogAutoConfiguration
+com.guyuai.framework.jackson.config.GuyuaiJacksonAutoConfiguration
+com.github.xiaoymin.knife4j.spring.configuration.Knife4jAutoConfiguration
+com.guyuai.framework.swagger.config.GuyuaiSwaggerAutoConfiguration
+com.guyuai.framework.web.config.GuyuaiWebAutoConfiguration
+com.guyuai.framework.xss.config.GuyuaiXssAutoConfiguration
